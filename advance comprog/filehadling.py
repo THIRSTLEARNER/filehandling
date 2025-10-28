@@ -44,5 +44,6 @@ while True:
                 })
    
         else:
-            raise TypeError("PLEASE TYPE 1") as
+            raise TypeError("PLEASE TYPE 1") as kelly
+                
             
